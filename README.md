@@ -1,1 +1,2 @@
 # NLP_2025
+To recreate the results our group used in the report, run all the python scripts given in the repository. No additional specific actions needed except for file BERT_coNLL.py, where in order to get results for different fractions of the data, they must be adjusted in line 161(commentary provided in the code itself). The only other condition for it to work is having the libraries used in the scripts installed
